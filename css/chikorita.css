@@ -33,19 +33,22 @@ main h2{
 }
 .diamond{
     float:left; 
-    background:Red;
+    background:#000206;
     width:25%;
     height:150px;
 }
 .pokemonY{
     float:left; 
-    background:Red;
+    background:#af2a3c;
     width:25%;
     height:150px;
 }
 .oras{
     float:left; 
-    background:Red;
+    background:#b00253;
     width:25%;
     height:150px;
+}
+.evolution{
+    margin-top: 20px;
 }
